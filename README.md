@@ -2,4 +2,4 @@
 implementation of several numerical methods using MATLAB
 
 
-![linear regrrssion](./imgs/linear1.PNG)
+![linear regrrssion](./imgs/linear3.PNG)
